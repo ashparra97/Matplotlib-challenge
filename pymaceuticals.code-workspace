@@ -1,14 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "../../../Desktop/Data Analytics Course"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "../../../Desktop/Data Analytics Course"
 		},
 		{
 			"path": "../pandas-challenge"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/opt/anaconda3/envs/PythonData/bin/python"
+	}
 }
